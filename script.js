@@ -27,3 +27,7 @@ const restaurant = {
     },
   },
 };
+
+// const arr = [2, 4, 5];
+// const [x, y, z] = arr;
+// console.log(x, y, z);
